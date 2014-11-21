@@ -9,7 +9,7 @@ A beautiful, fast, privacy-conscious client to use your favorite IM messaging se
 * Pinning any of your contacts as a secondary tile, with independent unread message count.
 * Off-the-record conversations, with special and delicate handling.
 
-Backend & [Server](http://github.com/lhchavez/gtalkjsonproxy) Development  
+Backend & [Server](https://github.com/Leon-O/gtalkjsonproxy) Development  
 [Luis Héctor Chávez](http://lhchavez.com)
 
 Frontend Development & UI Design  
